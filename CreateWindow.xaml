@@ -1,0 +1,52 @@
+﻿<Window x:Class="BookShopWPF.CreateWindow"
+        MinHeight="400" MinWidth="700"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Book Shop" Height="400" Width="700">
+
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="347*"/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="350*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Left" Margin="280,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="35" Width="240" TextAlignment="Center" FontSize="22" Foreground="White" Text="Кто ты из танков" Grid.ColumnSpan="3"/>
+
+        <TextBox x:Name="Email" HorizontalAlignment="Left" Margin="242,126,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="316" Height="25" FontSize="16" Grid.ColumnSpan="3"/>
+        <TextBlock IsHitTestVisible="False" Text="Имя*" Margin="242,126,242,0" Foreground="DarkGray" FontSize="16" Grid.ColumnSpan="3" Height="25" VerticalAlignment="Top">
+            <TextBlock.Style>
+                <Style TargetType="{x:Type TextBlock}">
+                    <Setter Property="Visibility" Value="Collapsed"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Text, ElementName=Email}" Value="">
+                            <Setter Property="Visibility" Value="Visible"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+        <TextBox x:Name="Password" HorizontalAlignment="Left" Margin="242,163,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="316" Height="25" FontSize="16" Grid.ColumnSpan="3"/>
+        <TextBlock IsHitTestVisible="False" Text="Пароль*" Margin="242,163,242,0" Foreground="DarkGray" FontSize="16" Grid.ColumnSpan="3" Height="25" VerticalAlignment="Top">
+            <TextBlock.Style>
+                <Style TargetType="{x:Type TextBlock}">
+                    <Setter Property="Visibility" Value="Collapsed"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Text, ElementName=Password}" Value="">
+                            <Setter Property="Visibility" Value="Visible"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+
+        <ComboBox x:Name="Access" SelectedIndex="0" Margin="242,200,249,0" Text="" FontSize="16" Grid.ColumnSpan="3" Height="25" VerticalAlignment="Top">
+            <ComboBoxItem FontSize="16">Клиент</ComboBoxItem>
+            <ComboBoxItem FontSize="16">Менеджер</ComboBoxItem>
+            <ComboBoxItem FontSize="16">Админ</ComboBoxItem>
+        </ComboBox>
+
+        <Button x:Name="Done" Content="Зарегистрироваться" Margin="249,0,249,85" FontSize="16" Click="Done_Click" Height="34" VerticalAlignment="Bottom" Grid.ColumnSpan="3"/>
+        <Button x:Name="Exit" Content="Вернуться назад" Margin="249,0,249,46" FontSize="16" Click="Exit_Click" Height="34" VerticalAlignment="Bottom" Grid.ColumnSpan="3"/>
+    </Grid>
+</Window>

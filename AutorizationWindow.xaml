@@ -1,0 +1,38 @@
+﻿<Window x:Class="BookShopWPF.AutorizationWindow"
+        MinHeight="480" MinWidth="800"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Book Shop" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="login" HorizontalAlignment="Center" Margin="0,226,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="320" Height="35" FontSize="24" FontFamily="MS Reference Sans Serif"/>
+        <TextBlock IsHitTestVisible="False" Text="Имя" Margin="240,226,240,173" Foreground="DarkGray" FontSize="24" FontFamily="MS Reference Sans Serif">
+            <TextBlock.Style>
+                <Style TargetType="{x:Type TextBlock}">
+                    <Setter Property="Visibility" Value="Collapsed"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Text, ElementName=login}" Value="">
+                            <Setter Property="Visibility" Value="Visible"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+        <TextBox x:Name="password" HorizontalAlignment="Center" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="320" Height="35" FontSize="24" Margin="0,276,0,0" FontFamily="MS Reference Sans Serif"/>
+        <TextBlock IsHitTestVisible="False" Text="Пароль" Margin="240,276,240,123" Foreground="DarkGray" FontSize="24" FontFamily="MS Reference Sans Serif">
+            <TextBlock.Style>
+                <Style TargetType="{x:Type TextBlock}">
+                    <Setter Property="Visibility" Value="Collapsed"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Text, ElementName=password}" Value="">
+                            <Setter Property="Visibility" Value="Visible"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+        <TextBlock Margin="180,76,180,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="60" Text="Авторизация" TextAlignment="Center" FontSize="36" FontFamily="Comic Sans MS"/>
+        <Button x:Name="signin" Content="Войти" MaxWidth="150" Margin="473,0,161,46" FontSize="24" FontFamily="MS Reference Sans Serif" Click="signin_Click" Height="41" VerticalAlignment="Bottom"/>
+        <Button x:Name="signup" Content="Зарегистрироваться" MaxWidth="300" Margin="150,0,378,46" FontSize="24" FontFamily="MS Reference Sans Serif" Click="signup_Click" Height="41" VerticalAlignment="Bottom"/>
+
+    </Grid>
+</Window>

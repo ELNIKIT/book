@@ -1,0 +1,203 @@
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\BookShopWPF.exe
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\BookShopWPF.dll.config
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\BookShopWPF.deps.json
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\BookShopWPF.runtimeconfig.json
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\BookShopWPF.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\BookShopWPF.pdb
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\BookShopWPF\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Projects\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.csproj.AssemblyReference.cache
+C:\Projects\BookShopWPF\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Projects\BookShopWPF\obj\Debug\net7.0-windows\App.g.cs
+C:\Projects\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF_MarkupCompile.cache
+C:\Projects\BookShopWPF\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Projects\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.g.resources
+C:\Projects\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.AssemblyInfoInputs.cache
+C:\Projects\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.AssemblyInfo.cs
+C:\Projects\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.csproj.CoreCompileInputs.cache
+C:\Projects\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.csproj.CopyComplete
+C:\Projects\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.dll
+C:\Projects\BookShopWPF\obj\Debug\net7.0-windows\refint\BookShopWPF.dll
+C:\Projects\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.pdb
+C:\Projects\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.genruntimeconfig.cache
+C:\Projects\BookShopWPF\obj\Debug\net7.0-windows\ref\BookShopWPF.dll
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\BookShopWPF.exe
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\BookShopWPF.dll.config
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\BookShopWPF.deps.json
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\BookShopWPF.runtimeconfig.json
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\BookShopWPF.dll
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\BookShopWPF.pdb
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\Humanizer.dll
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\Npgsql.dll
+C:\GitHub\BookShopWPF\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.csproj.AssemblyReference.cache
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\MainWindow.baml
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\App.g.cs
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF_MarkupCompile.cache
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.g.resources
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.AssemblyInfoInputs.cache
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.AssemblyInfo.cs
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.csproj.CoreCompileInputs.cache
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.csproj.CopyComplete
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.dll
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\refint\BookShopWPF.dll
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.pdb
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.genruntimeconfig.cache
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\ref\BookShopWPF.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\BookShopWPF.exe
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\BookShopWPF.dll.config
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\BookShopWPF.deps.json
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\BookShopWPF.runtimeconfig.json
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\BookShopWPF.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\BookShopWPF.pdb
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF_MarkupCompile.cache
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.g.resources
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.AssemblyInfo.cs
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.csproj.CopyComplete
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\refint\BookShopWPF.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.pdb
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF.genruntimeconfig.cache
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\ref\BookShopWPF.dll
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\AddWindow.g.cs
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF_MarkupCompile.lref
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\AddWindow.baml
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\AddWindow.g.cs
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\BookShopWPF_MarkupCompile.lref
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\AddWindow.baml
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\AutorizationWindow.g.cs
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\CreateWindow.g.cs
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\AutorizationWindow.baml
+C:\GitHub\BookShopWPF\obj\Debug\net7.0-windows\CreateWindow.baml
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\AutorizationWindow.baml
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\CreateWindow.baml
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\AutorizationWindow.g.cs
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\CreateWindow.g.cs
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\CartWindow.g.cs
+C:\Users\User\Desktop\Курсовые и дипломная\BookShopWPF\obj\Debug\net7.0-windows\CartWindow.baml
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\BookShopWPF.csproj.AssemblyReference.cache
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\AutorizationWindow.baml
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\CreateWindow.baml
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\AddWindow.g.cs
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\AutorizationWindow.g.cs
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\CartWindow.g.cs
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\CreateWindow.g.cs
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\BookShopWPF_MarkupCompile.cache
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\BookShopWPF_MarkupCompile.lref
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\BookShopWPF.dll
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\refint\BookShopWPF.dll
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\BookShopWPF.pdb
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\BookShopWPF.exe
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\BookShopWPF.dll.config
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\BookShopWPF.deps.json
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\BookShopWPF.runtimeconfig.json
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\BookShopWPF.dll
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\BookShopWPF.pdb
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\AddWindow.baml
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\CartWindow.baml
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\BookShopWPF.g.resources
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\BookShopWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\BookShopWPF.AssemblyInfoInputs.cache
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\BookShopWPF.AssemblyInfo.cs
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\BookShopWPF.csproj.CoreCompileInputs.cache
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\BookShopWPF.csproj.CopyComplete
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\BookShopWPF.genruntimeconfig.cache
+C:\Users\ElNikit0\Desktop\BookShopWPF-main\obj\Debug\net7.0-windows\ref\BookShopWPF.dll

@@ -1,0 +1,26 @@
+﻿<Window x:Class="BookShopWPF.CartWindow"
+            MinHeight="450" MinWidth="800"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BookShopWPF"
+        mc:Ignorable="d"
+        Title="CartWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="dataGrid" ItemsSource="{Binding Items}" AutoGenerateColumns="False" SelectionMode="Extended" CanUserResizeRows="False" CanUserSortColumns="True" CanUserAddRows="False" Height="349" VerticalAlignment="Top">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding ProductID}" Width="*" MaxWidth="35" MinWidth="15" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Название" Binding="{Binding Name}" Width="*" MinWidth="120" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Описание" Binding="{Binding Description}" Width="*" MinWidth="250" IsReadOnly="True" />
+                <DataGridTextColumn Header="Цена" Binding="{Binding Price}" Width="*" MinWidth="80" IsReadOnly="True" />
+                <DataGridTextColumn Header="Количество" Binding="{Binding StockQuantity}" Width="*" MinWidth="80" IsReadOnly="True" />
+                <DataGridTextColumn Header="Автор" Binding="{Binding ManufacturerID}" Width="*" MinWidth="250" IsReadOnly="True" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Удалить продукт из корзины" Click="RemoveFromCarts" MaxWidth="250" MinWidth="200" Margin="23,0,0,27" Width="68"  HorizontalAlignment="Left" Height="17" VerticalAlignment="Bottom"/>
+        <Button Content="Оплатить товары" Click="BuyProducts" MaxWidth="200" MinWidth="150" Margin="255,0,0,26" Width="68"  HorizontalAlignment="Left" Height="17" VerticalAlignment="Bottom"/>
+        <TextBlock x:Name="TotalCostText" MinWidth="150" Margin="0,0,45,27" TextWrapping="Wrap" Text="Итого к оплате: 100" Width="101" HorizontalAlignment="Right" Height="16" VerticalAlignment="Bottom"/>
+        <Button Content="Вернуться к товарам" Click="CloseCart" MaxWidth="200" MinWidth="150" Margin="439,0,0,25" Width="68"  HorizontalAlignment="Left" Height="17" VerticalAlignment="Bottom"/>
+    </Grid>
+</Window>
